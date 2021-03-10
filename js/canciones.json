@@ -1,0 +1,9 @@
+[
+    {
+        "titulo": "Gangnam Style",
+        "autor": "PSY",
+        "duracion": "3:39",
+        "año": 2011,
+        "img": "./img/gangnamstyle.png"
+    }
+]

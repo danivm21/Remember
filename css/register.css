@@ -1,0 +1,24 @@
+.row {
+    max-width: 800px;
+    margin: auto auto auto;
+}
+#logo_reg {
+    display: block;
+    margin: auto auto;
+}
+.container {
+    background-color: rgba(221, 221, 221, 0.3);
+    border-radius: 3%;
+}
+body {
+    background-image: url(../img/remember.gif);
+    background-repeat: none;
+    background-size: cover;
+    margin: auto auto;
+}
+#created {
+    color: green;
+}
+#error {
+    color: red;
+}

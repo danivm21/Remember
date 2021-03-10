@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Login - Remember</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/sign-in/">
+
+    
+
+    <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+
+    <!-- Favicons -->
+
+  <link rel="icon" href="./img/logo.png">
+  <meta name="theme-color" content="#7952b3">
+
+  <link href="css/signin.css" rel="stylesheet">
+</head>
+<body class="text-center travelclub-common-loaded">
+      
+  <main class="form-signin">
+    <form action="./remember.html">
+      <img class="mb-4" src="./img/logo.png" alt="" width="72" height="57">
+      <h1 class="h3 mb-3 fw-normal">Por favor inicie sesión</h1>
+      <label for="inputEmail" class="visually-hidden">Correo electrónico</label>
+      <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required="" autofocus="">
+      <label for="inputPassword" class="visually-hidden">Contraseña</label>
+      <input type="password" id="inputPassword" class="form-control" placeholder="Password" required="">
+      <div class="checkbox mb-3">
+        <label>
+          <input type="checkbox" value="remember-me"> Recuerdame
+        </label>
+      </div>
+      <button type="button" onclick="loginUsuario()">Iniciar sesión</button>
+      <p id="error"></p>
+      <p class="mt-5 mb-3">No tiene una cuenta aún? Regístrese <a href="./register.html">aquí</a> </p>
+    </form>
+  </main>
+
+  <script src="./js/login.js"></script>
+  <script src="./js/first_time.js"></script>
+</body>
+</html>

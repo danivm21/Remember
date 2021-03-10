@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "La Pepita Burger Bar",
+        "localidad": "Palma de Mallorca",
+        "img": "./img/la-pepita-burger.jpg"
+    },
+    {
+        "nombre": "Ran de Mar",
+        "localidad": "Ses Covetes, Mallorca",
+        "img": "./img/ran-de-mar.jpg"
+    },
+    {
+        "nombre": "Casa Pepe",
+        "localidad": "Venta de Cárdenas, Ciudad Real",
+        "img": "./img/casa-pepe.jpg"
+    },
+    {
+        "nombre": "La Barruca de Calderón",
+        "localidad": "Santander",
+        "img": "./img/barruca.jpg"
+    },
+    {
+        "nombre": "Cañas y Barro",
+        "localidad": "El Palmar, Valencia",
+        "img": "./img/cañas-barro.jpg"
+    }
+]

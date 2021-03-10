@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "GTA V",
+        "creador": "Rockstar Games",
+        "año": 2013,
+        "img": "./img/GTA-V.jpg"
+    },
+    {
+        "titulo": "Cyberpunk 2077",
+        "creador": "CD Projekt",
+        "año": 2020,
+        "img": "./img/Cyberpunk-2077.jpg"
+    }
+]

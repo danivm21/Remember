@@ -1,0 +1,9 @@
+[
+    {
+        "titulo": "Friends",
+        "temporadas": 10,
+        "directores": "Gary Halvorson, Kevin S. Bright, Gail Mancuso, Michael Lembeck" ,
+        "año": 1994,
+        "img": "./img/friends.jpeg"
+    }
+]
